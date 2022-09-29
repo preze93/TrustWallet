@@ -787,7 +787,7 @@
     },
     {
       "chainId": 42161,
-      "address": "0x590020B1005b8b25f1a2C82c5f743c540dcfa24d",
+      "address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
       "name": "GMX",
       "symbol": "GMX",
       "decimals": 18,
